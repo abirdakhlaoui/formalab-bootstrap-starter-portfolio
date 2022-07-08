@@ -1,3 +1,8 @@
+
+.navbar-brand {
+    margin: 70px;
+}
+
 .nav-link {
     color: black;
     text-decoration: none;
@@ -10,12 +15,14 @@
     float: right;
 }
 
+.font {
+    font-family: 'Lobster', cursive;
+}
+
 .ktiba{
+    margin:70px;
     width:50%;
     float:left;
+    line-height: 2em;
 }
-.ktiba p{
-    margin: 50px 0px;
-    text-align: justify;
 
-}
