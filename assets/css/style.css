@@ -9,3 +9,13 @@
     padding-top: 10px;
     float: right;
 }
+
+.ktiba{
+    width:50%;
+    float:left;
+}
+.ktiba p{
+    margin: 50px 0px;
+    text-align: justify;
+
+}
