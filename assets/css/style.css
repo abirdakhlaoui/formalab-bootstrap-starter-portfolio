@@ -12,7 +12,8 @@
 
 .taswira {
     width:35%;
-    float:right;
+    float:left;
+    text-align: center;
 }
 
 .taswira img {
